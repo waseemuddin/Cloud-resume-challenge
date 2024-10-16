@@ -16,7 +16,7 @@ Here's what you need to complete this project:
 
 ## Architecture Diagram
 
-![Architecture Diagram](https://github.com/user-attachments/assets/b878a36f-b61a-4077-a3c2-73d8d7c4a51d)
+![Architecture Diagram](diagram.png)
 
 
 ### How It Works.
@@ -39,7 +39,3 @@ Here's what you need to complete this project:
 ## Summary.
 This project demonstrates a serverless architecture for a Resume API using AWS Lambda and DynamoDB. The Lambda function retrieves resume data from DynamoDB and returns it in JSON format. The setup incorporates GitHub Actions for automated deployment and Terraform Cloud for infrastructure management and resource provisioning. 
 
-**API Endpoint**:
-```
-https://iqnycpfac4.execute-api.eu-north-1.amazonaws.com/dev/
-```
